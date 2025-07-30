@@ -1,0 +1,5 @@
+# Vim 
+```vim
+i//insert
+
+``` 
